@@ -1,5 +1,8 @@
 # Secure Payroll Disbursement API
 
+[![Tests](https://github.com/ankitverma1996/secure-payroll-api/actions/workflows/tests.yml/badge.svg)](https://github.com/ankitverma1996/secure-payroll-api/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A small, self-contained FastAPI microservice demonstrating patterns used
 in production payroll and banking-disbursement systems: async APIs,
 OAuth2 client-credentials auth, decimal-correct financial math, and
